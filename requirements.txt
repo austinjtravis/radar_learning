@@ -1,0 +1,11 @@
+numpy
+matplotlib
+scipy
+jupyter
+ipympl
+ipywidgets
+holoviews
+scikit-image
+sarpy
+xarray
+datashader
